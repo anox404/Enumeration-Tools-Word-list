@@ -15,25 +15,6 @@
   <img src="https://img.shields.io/badge/Status-Learning%20Project-blue?style=for-the-badge" alt="Learning project" />
 </p>
 
----
-
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Project Goals](#-project-goals)
-- [Repository Structure](#-repository-structure)
-- [Tools and Scripts](#-tools-and-scripts)
-- [Requirements](#-requirements)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Permissions](#-permissions)
-- [Troubleshooting](#-troubleshooting)
-- [Learning Roadmap](#-learning-roadmap)
-- [Contributing](#-contributing)
-- [Security Disclaimer](#-security-disclaimer)
-- [Author](#-author)
-
----
 
 ## 🧠 About the Project
 
